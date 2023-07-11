@@ -14,10 +14,6 @@ Hi there, I'm Merve. I'm frontend developer. I'm trying to improve myself in Jav
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mervesavas&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mervesavas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mervesavas&limit=5&theme=monokai&combine_all_yearly_contributions=true)
-
----
 [![](https://visitcount.itsvg.in/api?id=mervesavas&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
